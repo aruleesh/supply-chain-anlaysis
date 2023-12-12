@@ -6,7 +6,7 @@ This project delves into a comprehensive analysis of a supply chain dataset to u
 ## Exploratory Data Analysis (EDA): 
     Visualizations and statistical summaries to understand the distribution and relationships within the dataset.
 ## Insightful Visualizations: 
-    Utilized Plotly and Matplotlib to create dynamic and static visualizations for better comprehension.
+    Utilized Seaborn and Matplotlib to create dynamic and static visualizations for better comprehension.
 ## SKU-level Analysis:
     Investigated revenue, stock levels, and order quantities at a granular SKU level.
 ## Defect Rates Analysis:
